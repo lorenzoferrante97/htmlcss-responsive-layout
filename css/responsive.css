@@ -83,4 +83,9 @@
     .recipe-info {
         flex-basis: 36%;
     }
+
+    /* social button labels */
+    .social-networks .label {
+        display: inline;
+    }
 }
