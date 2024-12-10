@@ -9,6 +9,11 @@
     #topbar {
         justify-content: flex-start;
     }
+
+    /* padding main */
+    main {
+        padding: 48px;
+    }
 }
 
 
