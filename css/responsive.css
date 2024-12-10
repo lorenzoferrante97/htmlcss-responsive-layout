@@ -88,4 +88,16 @@
     .social-networks .label {
         display: inline;
     }
+
+    /* footer */
+    footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    /* footer address */
+    footer > address {
+        text-align: left;
+    }
 }
