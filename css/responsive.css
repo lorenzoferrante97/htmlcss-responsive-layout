@@ -36,6 +36,11 @@
         margin: 0;
         flex-basis: calc((100% / 3) - 24px);
     }
+
+    /* social network buttons */
+    .social-networks button {
+        flex-basis: 100%;
+    }
 }
 
 
