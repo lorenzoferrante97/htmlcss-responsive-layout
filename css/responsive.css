@@ -72,4 +72,15 @@
     .quick-notes > ul {
         flex-flow: column nowrap;
     }
+
+    /* recipe video */
+    .recipe-video {
+        flex-basis: 64%;
+        height: 40vw;
+    }
+
+    /* recipe info */
+    .recipe-info {
+        flex-basis: 36%;
+    }
 }
