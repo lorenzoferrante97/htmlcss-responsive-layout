@@ -24,6 +24,18 @@
     .recipe-title {
         font-size: 1.25rem;
     }
+
+    /* quick notes */
+    .quick-notes > ul {
+        display: flex;
+        flex-flow: row wrap;
+        gap: 24px;
+    }
+    /* quicknotes elements */
+    .quick-notes > ul > li {
+        margin: 0;
+        flex-basis: calc((100% / 3) - 24px);
+    }
 }
 
 
