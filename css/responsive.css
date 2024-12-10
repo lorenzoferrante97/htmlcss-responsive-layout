@@ -62,4 +62,14 @@
     .recipe-title {
         font-size: 1.5rem;
     }
+
+    /* recipe card */
+    .recipe-card {
+        display: flex;
+    }
+
+    /* quick notes */
+    .quick-notes > ul {
+        flex-flow: column nowrap;
+    }
 }
