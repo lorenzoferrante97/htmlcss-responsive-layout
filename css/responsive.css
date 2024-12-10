@@ -58,4 +58,8 @@
 /* ---- laptop / desktop query ---- */
 @media screen and (min-width: 992px) {
 
+    /* title size */
+    .recipe-title {
+        font-size: 1.5rem;
+    }
 }
