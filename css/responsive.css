@@ -19,6 +19,11 @@
     .recipe-origin {
         display: inline;
     }
+
+    /* title size */
+    .recipe-title {
+        font-size: 1.25rem;
+    }
 }
 
 
