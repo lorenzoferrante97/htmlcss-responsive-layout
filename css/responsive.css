@@ -46,6 +46,12 @@
     .ads {
         display: flex;
     }
+
+    /* presentation img */
+    .presentation img {
+        float: left;
+        margin-right: 12px;
+    }
 }
 
 
