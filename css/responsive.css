@@ -41,6 +41,11 @@
     .social-networks button {
         flex-basis: 100%;
     }
+
+    /* ads */
+    .ads {
+        display: flex;
+    }
 }
 
 
